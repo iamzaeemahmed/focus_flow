@@ -20,7 +20,7 @@ class BottomNavScreen extends ConsumerWidget {
     FocusScreen(),
     BlockerScreen(),
     AnalyticsScreen(),
-    SettingScreen(),
+     SettingsScreen(),
   ];
 
   @override
